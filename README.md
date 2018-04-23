@@ -21,6 +21,8 @@ vue trial
 
 > npm install
 
+> npm install vue-router vue-resource --save
+
 > npm run dev
 
 
